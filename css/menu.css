@@ -71,3 +71,7 @@
 .footer {
     margin-top: auto;
 }
+.menuItem.active{
+  color: dodgerblue;
+  font-weight: bold;
+}
