@@ -77,12 +77,13 @@ summary:hover {
 }
 
 .scroll {
-  overflow-y: scroll;
-  max-height: 80vh;
-}
-.scroll{
   overflow-y: auto;
-  max-height: 80vh;      
-  padding-bottom: 90px;  
+  height: 65vh;
+}
+
+.scroll {
+  overflow-y: auto;
+  max-height: 80vh;
+  padding-bottom: 90px;
   box-sizing: border-box;
 }
