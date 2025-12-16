@@ -104,10 +104,12 @@
 
 }
 
-.scrollindex {
-  overflow-y: auto;
-  overflow-x: hidden;
-}
+
+ .scrollindex{ 
+  overflow-y:auto;
+   height:75vh; 
+  }
+
 
 .content.content-mosaic .imageFrame {
   height: auto;
