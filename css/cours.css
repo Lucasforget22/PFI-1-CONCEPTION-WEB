@@ -76,14 +76,8 @@ summary:hover {
   background-color: lightblue;
 }
 
-.scroll {
+.scrollcours{
   overflow-y: auto;
   height: 65vh;
 }
 
-.scroll {
-  overflow-y: auto;
-  max-height: 80vh;
-  padding-bottom: 90px;
-  box-sizing: border-box;
-}
